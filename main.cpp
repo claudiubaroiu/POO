@@ -121,8 +121,10 @@ void meniu2()
         }
 
         case 4:
+                {
             p.stergere();
             break;
+                }
         case 5:
             break;
         }
