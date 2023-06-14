@@ -1,6 +1,6 @@
 kaufland suceava 08:00-22:00
 carrefour botosani 09:00-21:00
-simos brosteni 12:00-13:00
-simonos bro 1234
-simos bototsnai 234
-simosnos brostnei 2143253
+simos cluj 12:00-13:00
+simos suceava 09:00-22:00
+simos botosani 08:00-21:00
+simosnos suceava 09:00-20:00
