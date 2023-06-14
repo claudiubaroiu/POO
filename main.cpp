@@ -127,7 +127,7 @@ void meniu2()
             break;
         }
     }
-    while(d2!=4);
+    while(d2!=5);
 
 }
 
