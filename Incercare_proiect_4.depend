@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1686739110 source:d:\incercare_proiect_4\main.cpp
+	"Supermarket.h"
+	"Produs.h"
+	"Angajat.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<windows.h>
+
+1684740577 d:\incercare_proiect_4\include\supermarket.h
+	<fstream>
+	<iostream>
+
+1686739246 source:d:\incercare_proiect_4\src\supermarket.cpp
+	"Supermarket.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1686739246 source:d:\incercare_proiect_4\src\produs.cpp
+	"Produs.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1686675152 d:\incercare_proiect_4\include\produs.h
+	<fstream>
+	<iostream>
+
+1684492357 d:\incercare_proiect_4\include\angajat.h
+	<fstream>
+	<iostream>
+
+1684492648 source:d:\incercare_proiect_4\src\angajat.cpp
+	"Supermarket.h"
+	"Produs.h"
+	"Angajat.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<sstream>
+
